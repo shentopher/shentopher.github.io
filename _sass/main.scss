@@ -1,0 +1,14 @@
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: "Georgia",Times,serif;
+$linkColor: #212529 !important;
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+}
+
+body a {
+  color: $linkColor
+}
