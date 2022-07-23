@@ -10,8 +10,4 @@ Thanks for stopping by!
 
 I'm a Sophomore at the University of Pennsylvania ![logo](assets/img/pennlogo.png){:height="19.28px" width="17.22px"} pursuing a dual-degree between the Wharton School and the School of Engineering and Applied Science.
 
-Academically and professionally, I'm exploring avenues of connecting business and technology. 
-
-Extracurricularly, I enjoy photography, urban-exploration and travel, distance-running, and making noises on my Taylor acoustic guitar. 
-
 Connect with me at **chrshen (at) wharton.upenn.edu**.
