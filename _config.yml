@@ -27,6 +27,7 @@ gem "github-pages", group: :jekyll_plugins
 remote_theme: LeNPaul/academic
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 
 # Exclude from processing.

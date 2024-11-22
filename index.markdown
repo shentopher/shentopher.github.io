@@ -6,7 +6,8 @@ layout: home
 title: knowledge is power
 ---
 
-**me**: senior at upenn - deep tech, semiconductors, space, investing
+**me**: senior at upenn - deep tech, semiconductors, space, investing 
+[[linkedin]](https://www.linkedin.com/in/chrshen/)
 
 **currently reading**:
 - *Pale Blue Dot*, Carl Sagan
