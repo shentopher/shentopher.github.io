@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: knowledge is power
+title: knowledge
 ---
 
 **me**: senior at upenn - deep tech, semiconductors, space, investing 
@@ -35,7 +35,6 @@ title: knowledge is power
 - *Founders* #354, Sam Walton
 - *Founders* #314, Paul Graham (How to Do Great Work)
 - *Invest Like the Best* #349, Aswath Damodaran
-- my girlfriend
 
 **reminder**:
 
