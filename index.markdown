@@ -35,6 +35,7 @@ title: knowledge is power
 - *Founders* #354, Sam Walton
 - *Founders* #314, Paul Graham (How to Do Great Work)
 - *Invest Like the Best* #349, Aswath Damodaran
+- my girlfriend
 
 **reminder**:
 
