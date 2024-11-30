@@ -30,6 +30,7 @@ title: knowledge
    - Propulsion and Rocket Science
    - Datacenters and GPUs
    - AI Scaling
+   - Poker Theory
 
 **forever episodes** - podcasts to revisit from time to time:
 - *Founders* #354, Sam Walton
